@@ -40,7 +40,7 @@ Welcome to the Maze-Solving Platform! This project is designed to help you explo
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/mariamelghandoor/Robot-Maze.git
+   git clone https://github.com/mariamelghandoor/MazeAI.git
 
 2. **Run the Platform**:
    
